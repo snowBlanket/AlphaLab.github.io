@@ -7,29 +7,29 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyllt.github.io/vitae
-author: Fábio Madeira
+url: http://snowBlanket.github.io/
+author: Jonghyun, Jin
 
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyllt.github.io/sustain
+title: Jin's Portfolio
+name: Jonghyun, Jin
+email: 11rhddhd@gmail.com
+email_full: 11rhddhd@gmail.com
+website: github.io/snowBlanket
+website_full: https://snowBlanket.github.io/sustain
 github: trending
-twitter: twitter
-tel: +44 0000 000000
+twitter: '-'
+tel: '-'
 tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+google_maps: '-'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: '-'
+  postcode: '-'
+  city: Suwon
+  country: Republic of Korea
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
